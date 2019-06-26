@@ -1,9 +1,9 @@
 <template>
   <div id="app">
-    <xr-test></xr-test>
+    <xr-button></xr-button>
   </div>
 </template>
 
 <style lang="less">
-
+  
 </style>
